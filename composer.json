@@ -1,5 +1,6 @@
 {
-    "name": "h4cc/wkhtmltoimage-amd64",
+    "name": "preeco-privacy/wkhtmltoimage-amd64",
+    "version": "0.12.6",
     "description": "Convert html to image using webkit (qtwebkit). Static linked linux binary for amd64 systems.",
     "keywords": ["image", "thumbnail", "snapshot", "wkhtmltoimage", "convert", "binary"],
     "license": "LGPL Version 3",
@@ -12,7 +13,7 @@
     ],
     "minimum-stability": "stable",
     "bin": [
-        "bin/wkhtmltoimage-amd64"
+        "bin/wkhtmltoimage"
     ],
     "require": {
     }
